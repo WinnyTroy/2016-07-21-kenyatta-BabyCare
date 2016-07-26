@@ -1,0 +1,27 @@
+.style {
+    font-size: 38px;
+    padding: 40px;
+}
+.nav {
+    word-spacing: 90px;
+    font-size: 22px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.nav a:hover{
+    color: blue;
+    border-color: initial;
+}
+#logo {
+    color: orange;
+    height: 70px;
+    font-size: 90px;
+}
+#img{
+    align-content: center;
+    margin-right: 300px;
+}
+body{
+    background-color: black;
+}
